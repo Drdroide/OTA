@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1722532023",
-      "filename": "lineage-20.0-20240801-UNOFFICIAL-gts210ltexx.zip",
-      "id": "e0a586f0f823a51830f283f2a148da3f7a91ce7b4a7ef443199014b51c3c4653",
+      "datetime": "1722574048",
+      "filename": "lineage-20.0-20240802-UNOFFICIAL-gts210ltexx.zip",
+      "id": "8efe8eee5290f91fcb5819ea5d84e036d591b0ba675e0f9bd9a382eac9470a52",
       "romtype": "UNOFFICIAL",
-      "size": "620129058",
-      "url": "https://sourceforge.net/projects/gts210ltexx/files/release/lineage-20.0-20240801-UNOFFICIAL-gts210ltexx.zip/download",
+      "size": "62006680",
+      "url": "https://sourceforge.net/projects/gts210ltexx/files/release/lineage-20.0-20240802-UNOFFICIAL-gts210ltexx.zip/download",
       "version": "20.0"
     }
   ]
